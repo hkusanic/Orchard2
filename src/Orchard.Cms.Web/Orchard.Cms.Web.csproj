@@ -43,6 +43,7 @@
     <ProjectReference Include="..\OrchardCore.Modules\Orchard.Lists\Orchard.Lists.csproj" />
     <ProjectReference Include="..\OrchardCore.Modules\Orchard.Lucene\Orchard.Lucene.csproj" />
     <ProjectReference Include="..\OrchardCore.Modules\Orchard.Markdown\Orchard.Markdown.csproj" />
+    <ProjectReference Include="..\OrchardCore.Modules\Orchard.Media\Orchard.Media.csproj" />
     <ProjectReference Include="..\OrchardCore.Modules\Orchard.Menu\Orchard.Menu.csproj" />
     <ProjectReference Include="..\OrchardCore.Modules\Orchard.Modules\Orchard.Modules.csproj" />
     <ProjectReference Include="..\OrchardCore.Modules\Orchard.Mvc\Orchard.Mvc.csproj" />
